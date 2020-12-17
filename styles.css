@@ -1,0 +1,23 @@
+body{
+    background-color: #ffcccc;
+    color: black;
+    text-align:center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.intro{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.navbar-collapse{
+    background-color: #ffcccc;
+}
+.navbar-expand-lgnavbar-lightbg-light{
+    background-color: #ffcccc;
+}

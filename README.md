@@ -1,2 +1,2 @@
 # Coding-1-Final
- These are the starter files for F2020 Coding 1
+This site is about me and my life. It talks about me and how to contact me. It's about the things I like and the things I like to do. The site has pictures of me from when I was a kid to when I caught my first fish when I went fishing with my friend Gunner.It talks about how I like baskstball I fell in love with the sport after I went to my first NBA game. I like soccer because I had been playing it since I was 5 years old. I have 1 sibiling a older sister which is older than me by 5 years.
